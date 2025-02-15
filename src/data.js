@@ -38,5 +38,22 @@ export const data = [
         option3: "File System",
         option4: "None",
         ans: 3
+    },
+    {
+        "que": "What is the default value of the `mode` argument in `fs.open()`?",
+        "option1": "r",
+        "option2": "w",
+        "option3": "a",
+        "option4": "x",
+        "ans": 1
+    },
+    {
+        "que": "Which of the following is NOT a method of the `fs` module?",
+        "option1": "fs.readFile()",
+        "option2": "fs.writeFile()",
+        "option3": "fs.createFile()",
+        "option4": "fs.appendFile()",
+        "ans": 3
     }
+    
 ]
