@@ -111,4 +111,52 @@ export const data = [
         option4: "Sending HTTP requests",
         ans: 3
     },
+    {
+        que: "Which object is used in Node.js to handle events?",
+        option1: "EventEmitter",
+        option2: "EventObject",
+        option3: "EventHandler",
+        option4: "EmitterObject",
+        ans: 1
+    },
+    {
+        que: "Which keyword is used to handle exceptions in Node.js?",
+        option1: "catch",
+        option2: "error",
+        option3: "try-catch",
+        option4: "throw",
+        ans: 3
+    },
+    {
+        que: "What is the file extension for a Node.js module?",
+        option1: ".json",
+        option2: ".html",
+        option3: ".js",
+        option4: ".txt",
+        ans: 3
+    },
+    {
+        que: "Which of these is a popular Node.js web framework?",
+        option1: "Django",
+        option2: "Flask",
+        option3: "Express",
+        option4: "Laravel",
+        ans: 3
+    },
+    {
+        que: "Which command shows the list of globally installed npm packages?",
+        option1: "npm ls",
+        option2: "npm list -g",
+        option3: "npm global list",
+        option4: "npm show -g",
+        ans: 2
+    },
+    {
+        que: "Which Node.js method is used to import modules in CommonJS?",
+        option1: "require()",
+        option2: "import",
+        option3: "include()",
+        option4: "load()",
+        ans: 1
+    }
 ]
