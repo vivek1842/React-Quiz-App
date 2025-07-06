@@ -78,6 +78,37 @@ export const data = [
         option3: "If a file can be written to",
         option4: "If a file is empty",
         ans: 2
-    }
-    
+    },
+    {
+        que: "Which method is used to create a new Node.js project?",
+        option1: "node init",
+        option2: "npm start",
+        option3: "npm init",
+        option4: "node start",
+        ans: 3
+    },
+    {
+        que: "Which of the following is a core module in Node.js?",
+        option1: "axios",
+        option2: "http",
+        option3: "express",
+        option4: "mongoose",
+        ans: 2
+    },
+    {
+        que: "Which command is used to install a package globally in Node.js?",
+        option1: "npm install package-name",
+        option2: "npm install -g package-name",
+        option3: "node install package-name",
+        option4: "npm get package-name",
+        ans: 2
+    },
+    {
+        que: "What does the `path` module in Node.js help with?",
+        option1: "Handling database connections",
+        option2: "Parsing JSON data",
+        option3: "Working with file and directory paths",
+        option4: "Sending HTTP requests",
+        ans: 3
+    },
 ]
